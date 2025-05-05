@@ -19,15 +19,16 @@ y=mx+c
 Where:
 
 - y is the predicted output
-- 
+ 
 - x is the input feature
-- 
+  
 - m is the slope of the line
-- 
+  
 - c is the y-intercept
   
 
 ✅ Assumptions:
+
 Linearity – the relationship between X and Y is linear
 
 Independence – the residuals are independent
@@ -40,13 +41,13 @@ Normality – residuals should be normally distributed
 🔍 Example Use Cases:
 
 
-Predicting house prices based on area
+1) Predicting house prices based on area
 
 
-Estimating sales based on advertising spend
+2) Estimating sales based on advertising spend
 
 
-Forecasting temperature based on time
+3) Forecasting temperature based on time
 
 ###  simple Python example using scikit-learn
 
